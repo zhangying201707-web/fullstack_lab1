@@ -1,2 +1,2 @@
-# fullstack_lab1 - local change
+# fullstack_lab1 - local & remote merged
 # edited by ying zhang
